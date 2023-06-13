@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<empresa>
+  <nome>empresa</nome>
+  <funcionarios>
+    <nome>João</nome>
+    <idade>30</idade>
+    <cargo>Gerente</cargo>
+    <projetos>
+      <nome>Projeto A</nome>
+      <cliente>Cliente X</cliente>
+    </projetos>
+    <nome>Maria</nome>
+    <idade>25</idade>
+    <cargo>Desenvolvedora</cargo>
+    <projetos>
+      <nome>Projeto C</nome>
+      <cliente>Cliente Z</cliente>
+    </projetos>
+  </funcionarios>
+</empresa>

@@ -1,0 +1,27 @@
+{
+  "nome": "empresa",
+  "funcionarios": [
+    {
+      "nome": "João",
+      "idade": 30,
+      "cargo": "Gerente",
+      "projetos": [
+        {
+          "nome": "Projeto A",
+          "cliente": "Cliente X"
+        }
+      ]
+    },
+    {
+      "nome": "Maria",
+      "idade": 25,
+      "cargo": "Desenvolvedora",
+      "projetos": [
+        {
+          "nome": "Projeto C",
+          "cliente": "Cliente Z"
+        }
+      ]
+    }
+  ]
+}

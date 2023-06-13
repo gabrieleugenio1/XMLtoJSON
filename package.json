@@ -1,0 +1,14 @@
+{
+  "name": "banco-de-dados",
+  "version": "1.0.0",
+  "description": "xml e json",
+  "main": "XMLtoJSON.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabriel",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.0"
+  }
+}

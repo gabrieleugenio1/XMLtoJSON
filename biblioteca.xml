@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<biblioteca>
+  <nome>Biblioteca Pública</nome>
+  <endereco>
+    <rua>João Líra</rua>
+    <cidade>Recife</cidade>
+    <país>Brasil</país>
+  </endereco>
+  <livros>
+    <livro>
+      <titulo>Memórias Póstumas de Brás Cubas</titulo>
+      <autor>Machado de Assis</autor>
+      <ano>1881</ano>
+    </livro>
+    <livro>
+      <titulo>Macunaíma</titulo>
+      <autor>Mário de Andrade</autor>
+      <ano>1928</ano>
+    </livro>
+  </livros>
+</biblioteca>
